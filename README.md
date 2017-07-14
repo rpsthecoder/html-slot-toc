@@ -1,4 +1,4 @@
-# Table  of contents with auto-filled text using HTML Slots
+# Auto-fill table of contents (TOC) using HTML Slots.
 
 This demo creates a table of contents (TOC) for a Web page, whose text is auto-generated and auto-updated. The standards used in the demo are Shadow DOM, HTML Slot, and HTML Template.
 
