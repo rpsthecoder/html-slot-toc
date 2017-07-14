@@ -4,9 +4,6 @@ This demo creates a table of contents (TOC) for a Web page, whose text is auto-g
 
 > :information_desk_person: The TOC layout is not auto-generated/updated, only its text.
 
-✰ **Credit**:  
-The filler text used in the demo Web page is from Wikipedia.  
-✰ **Demo Page**:  
-https://rpsthecoder.github.io/html-slot-toc/
+<a href="https://rpsthecoder.github.io/html-slot-toc/" target=_blank title='View the Demo Page'><img src='https://raw.githubusercontent.com/rpsthecoder/img-repo/gh-pages/view-at-github-page.png' alt='Github Demo Page' height=60px></a>
 
 
